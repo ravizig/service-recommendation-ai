@@ -1,0 +1,40 @@
+{
+  "name": "ai-queue-recommendation-engine",
+  "private": true,
+  "version": "0.0.0",
+  "description": "a Sails application",
+  "keywords": [],
+  "dependencies": {
+    "@huggingface/inference": "^4.13.22",
+    "@sailshq/lodash": "^3.10.3",
+    "axios": "^1.18.1",
+    "dotenv": "^17.4.2",
+    "joi": "^18.2.3",
+    "pg": "^8.22.0",
+    "sails": "^1.5.9",
+    "sails-hook-orm": "^4.0.0",
+    "sails-hook-sockets": "^3.0.0",
+    "sails-postgresql": "^5.0.1",
+    "uuid": "^14.0.1",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "eslint": "5.16.0"
+  },
+  "scripts": {
+    "start": "NODE_ENV=production node app.js",
+    "test": "npm run lint && npm run custom-tests && echo 'Done.'",
+    "lint": "./node_modules/eslint/bin/eslint.js . --max-warnings=0 --report-unused-disable-directives && echo '✔  Your .js files look good.'",
+    "custom-tests": "echo \"(No other custom tests yet.)\" && echo"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ztlab111/ai-queue-recommendation-engine.git"
+  },
+  "author": "ztlab111",
+  "license": "",
+  "engines": {
+    "node": "^22.23"
+  }
+}

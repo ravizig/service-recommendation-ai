@@ -1,0 +1,15 @@
+{
+  "Welcome": "Welcome",
+  "A brand new app.": "A brand new app.",
+  "HEALTH_CHECK_ERROR": "Health check encountered an error",
+  "SYSTEM_HEALTHY": "System is healthy",
+  "SYSTEM_UNHEALTHY": "System is unhealthy",
+  "INVALID_INPUT": "Invalid input data",
+  "SERVICE_UNAVAILABLE": "Service temporarily unavailable. Please try again later.",
+  "RECOMMENDATION_SUCCESS": "Recommendations generated successfully",
+  "RECOMMENDATION_FAILED": "Failed to generate recommendations",
+  "EMBEDDING_SYNC_SUCCESS": "Embeddings synchronized successfully",
+  "EMBEDDING_SYNC_FAILED": "Failed to synchronize embeddings",
+  "SERVICE_CREATED": "Service created successfully",
+  "SERVICE_CREATE_FAILED": "Failed to create service"
+}
