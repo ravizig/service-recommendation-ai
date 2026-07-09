@@ -109,15 +109,6 @@ Frontend default URL:
 
 - `http://localhost:5173`
 
-### 3. Optional Frontend Environment
-
-Create `frontend/.env`:
-
-```env
-VITE_API_BASE_URL=http://localhost:1337
-VITE_API_KEY=test-key-1
-```
-
 ## How To Use (In 30 Seconds)
 
 1. Open frontend app.
@@ -141,5 +132,6 @@ VITE_API_KEY=test-key-1
 
 ## Notes
 
+- Ensure that all environment variables added properly for frontend & backend both
 - UI term is `query` for user friendliness.
 - Backend compatibility field is `symptoms` in recommendation payload.
