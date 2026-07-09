@@ -1,5 +1,5 @@
 {
-  "name": "ai-queue-recommendation-engine",
+  "name": "ai-service-recommendation",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -30,7 +30,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ztlab111/ai-queue-recommendation-engine.git"
+    "url": "git://github.com/ztlab111/ai-service-recommendation.git"
   },
   "author": "ztlab111",
   "license": "",

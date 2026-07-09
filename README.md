@@ -1,4 +1,4 @@
-# AI Queue Recommendation Engine
+# AI Service Recommendation Engine
 
 Single source documentation for the full project (frontend + backend).
 
@@ -48,7 +48,7 @@ sequenceDiagram
 ## Project Structure
 
 ```text
-ai-queue-recommendation-engine/
+ai-service-recommendation-engine/
 ├── backend/        # Sails.js API, helpers, models, routes
 ├── frontend/       # React UI, forms, API integration
 └── README.md       # This combined guide

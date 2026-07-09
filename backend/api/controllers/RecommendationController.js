@@ -60,7 +60,7 @@ module.exports = {
    * @file RecommendationController.js
    * @param {Request} req
    * @param {Response} res
-   * @description This method is used to recommend queue service
+   * @description This method is used to recommend service
    * @author Ravi Patel (Zignuts)
    */
   recommendService: async function (req, res) {
@@ -136,7 +136,7 @@ module.exports = {
    * @file RecommendationController.js
    * @param {Request} req
    * @param {Response} res
-   * @description This method is used to recommend queue service
+   * @description This method is used to sync embeddings
    * @author Ravi Patel (Zignuts)
    */
   syncEmbeddings: async function (req, res) {

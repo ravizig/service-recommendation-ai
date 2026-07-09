@@ -1,5 +1,5 @@
 -- ============================================
--- AI Queue Recommendation Engine - Database Setup
+-- AI Service Recommendation Engine - Database Setup
 -- ============================================
 -- ============================================
 -- SECTION 1: Create Service Table

@@ -11,7 +11,7 @@
 module.exports.policies = {
   /***************************************************************************
    *                                                                          *
-   * AI Queue Recommendation Engine - Policy Configuration                   *
+   * AI Service Recommendation Engine - Policy Configuration                   *
    *                                                                          *
    * Policies are applied in the order listed                                *
    * 1. Authentication (auth) - Validates API key                            *
