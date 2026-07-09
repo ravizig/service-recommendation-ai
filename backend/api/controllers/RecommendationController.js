@@ -104,7 +104,7 @@ module.exports = {
         status: RESPONSE_CODES.OK,
         data: {
           recommendations: result.recommendations,
-          metadata: result.metadata,
+          // metadata: result.metadata,
         },
         message: req.i18n.__('RECOMMENDATION_SUCCESS'),
       });

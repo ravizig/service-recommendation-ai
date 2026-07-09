@@ -208,7 +208,7 @@ function App() {
   return (
     <main className="app-shell">
       <header className="app-header">
-        <h1>AI Queue Recommendation</h1>
+        <h1>AI Service Recommendation</h1>
         <p>Enter your query and age to get service listing recommendations.</p>
       </header>
 
